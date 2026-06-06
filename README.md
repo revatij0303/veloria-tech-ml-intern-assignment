@@ -150,13 +150,6 @@ The project follows a Retrieval-Augmented Generation (RAG) approach:
 4. User queries are converted into embeddings.
 
 
-Example query:
-
-`"Show me matches where Mumbai won"`
-
-The system returns the 3 most relevant match records based on semantic similarity.
-
----
 
 ### How to Run `rag_search.py`
 
